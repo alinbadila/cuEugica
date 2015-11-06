@@ -1,0 +1,4 @@
+07.11.2015
+- de configurat plugin application https://docs.gradle.org/current/userguide/application_plugin.html
+- de adaugat dependinta lombok (search.maven.org)
+- de folosit lombok pentru proiect
