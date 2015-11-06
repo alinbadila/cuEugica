@@ -1,0 +1,7 @@
+= cuEugica
+
+Tutorial 
+* gradle 
+* git 
+* etc.
+
